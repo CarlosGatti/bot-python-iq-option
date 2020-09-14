@@ -1,0 +1,4 @@
+data_hora,paridade,direcao,timeframe
+2020-09-08 15:50:00,EURUSD,call,5
+2020-09-08 15:55:00,USDJPY,put,5
+2020-09-08 16:00:00,EURGBP,call,5
