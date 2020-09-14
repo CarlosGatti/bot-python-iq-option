@@ -1,0 +1,17 @@
+[GERAL]
+paridade = EURUSD
+valor_entrada = 500
+timeframe = 5
+ 
+martingale = S
+sorosgale = S
+niveis = 2
+
+stop_loss = 1000000000000
+stop_win = 1000000000000
+
+valor_minimo = 0
+filtro_pais = todos
+filtro_top_traders = 0
+filtro_diferenca_sinal = 2
+seguir_ids = 
