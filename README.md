@@ -17,7 +17,7 @@
     <br />
     <a href="https://github.com/CarlosGatti/bot_python_iq_option/issues">Report Bug</a>
     ·
-    <a href="https://github.com/CarlosGatti/bot_python_iq_option/issuess">Request Feature</a>
+    <a href="https://github.com/CarlosGatti/bot_python_iq_option/issues">Request Feature</a>
   </p>
 </p>
 
